@@ -16,8 +16,7 @@ object Constants {
         apkFileType = ApkFileType.APK,
         appIconColor = 0x4A90D9, // PhotoGrid blue
         targets = listOf(
-            AppTarget(version = "8.81"),
-            AppTarget(version = null) // latest / future versions
+            AppTarget(version = "8.81")
         )
     )
 }
