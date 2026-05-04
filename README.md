@@ -1,12 +1,12 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 PhotoGrid Morphe Patches
 
-Template repository for Morphe Patches.
+Morphe patches for PhotoGrid.
 
 &nbsp;
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/ameenalasady/photogrid-morphe/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.1-dev.1](https://github.com/ameenalasady/photogrid-morphe/releases/tag/v1.0.1-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 PhotoGrid&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -27,27 +27,11 @@ Template repository for Morphe Patches.
 &nbsp;
 ## ❓ About
 
-This is a template to create a new Morphe Patches repository.
+This repository contains custom Morphe patches for the PhotoGrid application.
 
-Morphe Patches template is based off the prior work of [ReVanced](https://github.com/ReVanced/revanced-patches-template).
+These patches are based off the prior work of ReVanced and Morphe.
 All modifications made by Morphe, along with their dates, can be found in the Git history.
 
-
-## 🚀 Get started
-
-To start using this template, follow these steps:
-
-1. [Create a new repository using this template](https://github.com/new?template_name=morphe-patches-template&template_owner=MorpheApp)
-2. Set up the [build.gradle.kts](patches/build.gradle.kts) file (Specifically, the 
-   [group of the project](patches/build.gradle.kts#L1), and the [About](patches/build.gradle.kts#L5-L11))
-3. Set up the [README.md](README.md) file[^1] (e.g, title, description, license, 
-   summary of the patches that are included in the repository), the [issue templates](.github/ISSUE_TEMPLATE)[^2]
-   and the [contribution guidelines](CONTRIBUTING.md)[^3].
-4. Choose a name for your patches project. Keep in mind you must use a unique name that does not 
-   imply or suggest authorship by the Morphe open source project. If unsure, then simply name these
-   patches after yourself ("UserXYZ Morphe patches"). See the [NOTICE](NOTICE) for details. 
-5. (Optional): Add `patches-bundle.png` to the project if you want a custom icon to show in
-   Morphe Manager instead of your GitHub profile avatar.
 
 🎉 You are now ready to start creating patches!
 
@@ -86,20 +70,20 @@ patches to Morphe (update the links below after creating your new patches repo):
 
 #### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=ameenalasady/photogrid-morphe
 
-Or manually add this repository url as a patch source in Morphe: https://github.com/xyz-user/xyz-patches
+Or manually add this repository url as a patch source in Morphe: https://github.com/ameenalasady/photogrid-morphe
 
 ### 📙 Contributing
 
-Thank you for considering contributing to UserXYZ Morphe Patches.  
+Thank you for considering contributing to PhotoGrid Morphe Patches.  
 You can find the contribution guidelines [here](CONTRIBUTING.md).
 
 ### 🛠️ Building
 
-To build UserXYZ Morphe Patches,
+To build PhotoGrid Morphe Patches,
 you can follow the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation).
 
 ## 📜 License
 
-UserXYZ Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+PhotoGrid Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)

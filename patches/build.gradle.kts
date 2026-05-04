@@ -3,7 +3,7 @@ group = "app.photogrid"
 patches {
     about {
         name = "PhotoGrid Patches"
-        description = "Morphe patches for PhotoGrid — unlocks premium features (educational)"
+        description = "Morphe patches for PhotoGrid — unlocks premium features"
         source = "git@github.com:ameenalasady/photogrid-morphe.git"
         author = "Ameen"
         contact = "na"
