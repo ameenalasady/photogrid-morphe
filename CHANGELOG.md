@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ameenalasady/photogrid-morphe/compare/v1.0.0...v1.0.1) (2026-05-04)
+
+
+### Bug Fixes
+
+* update README and remove educational tag from patch info ([ccb5086](https://github.com/ameenalasady/photogrid-morphe/commit/ccb508683efde567b9e00433ccaf6761bcab069e))
+
 ## [1.0.1-dev.1](https://github.com/ameenalasady/photogrid-morphe/compare/v1.0.0...v1.0.1-dev.1) (2026-05-04)
 
 
