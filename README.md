@@ -1,8 +1,15 @@
-# 👋🧩 PhotoGrid Morphe Patches
+# 🛑 This repository has moved!
+
+**PhotoGrid Morphe Patches are now part of a unified repository.**
+
+Please visit [**ameen-morphe**](https://github.com/ameenalasady/ameen-morphe) for the latest updates, releases, and support.
+
+---
+
+# 👋🧩 PhotoGrid Morphe Patches (ARCHIVED)
 
 Morphe patches for PhotoGrid.
 
-&nbsp;
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
